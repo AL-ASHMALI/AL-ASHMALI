@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rabie Al-ashmali
-- 👀 I’m a Web developer. 
+- 👀 I’m a Full-Stack Web developer. 
 - 🌱 I’m always learning
 - 📫 You can reach me on my email rabiealashmali@gmail.com
 
